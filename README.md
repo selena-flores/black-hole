@@ -1,3 +1,10 @@
 # black-hole
- Using clmtrackr to simulate distance.
- big thanks to Arduno for the clm trackr library, Coding Train for brilliant videos, and Brian House for introducing me to P5.js.
+
+This program simulates the impression of going into a black hole with textured objects using P5.js. To run,
+
+- click the link below
+- allow camera access
+- stand about 4 feet from your camera
+- walk backward and forward
+
+You will see the torus growing and shrinking based on your distance from your camera. Run the program [here](https://sam-flores.github.io/black-hole/).
